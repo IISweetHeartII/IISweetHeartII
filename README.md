@@ -109,7 +109,7 @@
 | GenAI Playground    | Prototype              | Python · FastAPI · OpenAI · Supabase               | 실험적 기능 PoC                          | [Repo](https://github.com/IISweetHeartII/genai-playground)           |
 
 <br>
-
+<!-- 
 <h4 align="center">Project Gallery</h4>
 <p align="center"><sub>아래 이미지는 <code>./assets</code> 경로에 넣으면 자동으로 표시됩니다. (예: <code>assets/habit-tracker.gif</code>)</sub></p>
 <table>
@@ -147,16 +147,16 @@
   </tr>
 </table>
 
-<br>
+<br> -->
 
 <div align="center">
   <h3 style="border-bottom: 2px solid #239128; color: #239128;">📊 My GitHub Stats</h3>
   <p>
     <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener">
-      <img src="https://github-readme-stats.vercel.app/api?username=IISweetHeartII&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&cache_seconds=7200" alt="IISweetHeartII's GitHub stats" width="49%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=IISweetHeartII&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&cache_seconds=7200" alt="IISweetHeartII's GitHub stats" width="66%"/>
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IISweetHeartII&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&hide=html,css" alt="Top Languages" width="49%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IISweetHeartII&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&hide=html,css&langs_count=6" alt="Top Languages" width="33%"/>
     </a>
   </p>
 </div>
