@@ -153,10 +153,10 @@
   <h3 style="border-bottom: 2px solid #239128; color: #239128;">📊 My GitHub Stats</h3>
   <p>
     <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener">
-      <img src="https://github-readme-stats.vercel.app/api?username=IISweetHeartII&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&cache_seconds=7200" alt="IISweetHeartII's GitHub stats" width="55%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=IISweetHeartII&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&cache_seconds=7200" alt="IISweetHeartII's GitHub stats" width="56%"/>
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IISweetHeartII&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&hide=html,css&langs_count=6" alt="Top Languages" width="44%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IISweetHeartII&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&hide=html,css&langs_count=6" alt="Top Languages" width="43%"/>
     </a>
   </p>
 </div>
