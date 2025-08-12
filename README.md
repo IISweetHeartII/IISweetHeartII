@@ -32,7 +32,7 @@
   <h3 style="border-bottom: 2px solid #239128; color: #239128;">📊 My GitHub Stats & Trophies</h3>
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=IISweetHeartII&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="IISweetHeartII's GitHub stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=IISweetHeartII&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" alt="IISweetHeartII's GitHub stats" />
     </a>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img src="https://github-profile-trophy.vercel.app/?username=IISweetHeartII&theme=tokyonight&row=1&column=4&no-bg=true&no-frame=true" alt="Trophies" />
@@ -43,8 +43,20 @@
 <div align="center">
   <h3 style="border-bottom: 2px solid #239128; color: #239128;">🐍 Here's a snake eating my contributions!</h3>
   <a href="https://github.com/IISweetHeartII">
-    <img src="https://github.com/IISweetHeartII/IISweetHeartII/blob/output/github-contribution-grid-snake.svg" alt="contribution snake" />
+    <img src="https://raw.githubusercontent.com/IISweetHeartII/IISweetHeartII/output/github-contribution-grid-snake.svg" alt="contribution snake" />
   </a>
+</div>
+
+<br>
+
+<div align="center">
+  <h3 style="border-bottom: 2px solid #239128; color: #239128;">⏱️ When I Code & Activity</h3>
+  <p>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IISweetHeartII&theme=github_dark&utcOffset=9" alt="Productive time"/>
+  </p>
+  <p>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=IISweetHeartII&theme=github-compact" alt="Activity Graph"/>
+  </p>
 </div>
 
 <br>
