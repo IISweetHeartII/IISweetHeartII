@@ -130,16 +130,9 @@
 
 <div align="center">
   <h3 style="border-bottom: 2px solid #239128; color: #239128;">⏱️ When I Code & Activity</h3>
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IISweetHeartII&theme=github_dark&utcOffset=9" alt="Productive time" width="420"/>
-      </td>
-      <td>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=IISweetHeartII&theme=github-compact" alt="Activity Graph" width="420"/>
-      </td>
-    </tr>
-  </table>
+  <p>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=IISweetHeartII&theme=github-compact" alt="Activity Graph"/>
+  </p>
 </div>
 
 <br>
@@ -150,7 +143,7 @@
     <h3 style="border-bottom: 2px solid #239128; color: #239128;">📬 Contact & Socials</h3>
     <p>
         <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sachi009955@gmail.com&su=%5BGitHub%5D%20Contact%20from%20Profile&body=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C%20GitHub%20%ED%94%84%EB%A1%9C%ED%95%84%EC%9D%84%20%EB%B3%B4%EA%B3%A0%20%EC%97%B0%EB%9D%BD%EB%93%9C%EB%A6%BD%EB%8B%88%EB%8B%A4.%0A%0A-%20%EC%9D%B4%EB%A6%84%3A%20%0A-%20%EC%86%8C%EC%86%8D%3A%20%0A-%20%EB%AC%B8%EC%9D%98%20%EB%82%B4%EC%9A%A9%3A%20%0A%0A%EA%B0%90%EC%82%AC%ED%95%A9%EB%8B%88%EB%8B%A4." target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-        <a href="https://log8.kr" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Blog-log8.kr-121212?style=for-the-badge"></a>
+        <a href="https://log8.kr" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Blog-121212?style=for-the-badge"></a>
         <a href="https://www.youtube.com/@Luckyducky-official" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
         <a href="https://www.linkedin.com/in/sweetheart2000/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     </p>
