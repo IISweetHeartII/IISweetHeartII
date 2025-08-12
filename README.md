@@ -15,13 +15,20 @@
     기획→개발→리뷰 전 과정에 AI를 도입해 팀/개인 프로젝트 공수를 약 <b>30%</b> 절감했습니다.
   </p>
   <p>
-    <a href="https://log8.kr">블로그(log8.kr)</a> · 
-    <a href="https://github.com/IISweetHeartII">GitHub</a> · 
-    <a href="https://www.linkedin.com/in/sweetheart2000/">LinkedIn</a>
+    <a href="https://log8.kr" target="_blank" rel="noopener">블로그(log8.kr)</a> · 
+    <a href="https://github.com/IISweetHeartII" target="_blank" rel="noopener">GitHub</a> · 
+    <a href="https://www.linkedin.com/in/sweetheart2000/" target="_blank" rel="noopener">LinkedIn</a>
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/AI%20Native-7F52FF?style=for-the-badge" alt="AI Native"/>
+    <img src="https://img.shields.io/badge/Frontend-61DAFB?style=for-the-badge" alt="Frontend"/>
+    <img src="https://img.shields.io/badge/Productivity%20%2B30%25-16a34a?style=for-the-badge" alt="Productivity +30%"/>
   </p>
 </div>
 
 <br>
+
+<hr/>
 
 <div align="center">
   <h3 style="border-bottom: 2px solid #239128; color: #239128;">🧠 AI Impact & Toolkit</h3>
@@ -105,11 +112,20 @@
 
 <div align="center">
   <h3 style="border-bottom: 2px solid #239128; color: #239128;">📊 My GitHub Stats</h3>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=IISweetHeartII&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&cache_seconds=7200" alt="IISweetHeartII's GitHub stats" />
-    </a>
-  </p>
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener">
+          <img src="https://github-readme-stats.vercel.app/api?username=IISweetHeartII&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&cache_seconds=7200" alt="IISweetHeartII's GitHub stats" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IISweetHeartII&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
@@ -128,12 +144,14 @@
 
 <br>
 
+<hr/>
+
 <div align="center">
     <h3 style="border-bottom: 2px solid #239128; color: #239128;">📬 Contact & Socials</h3>
     <p>
-      <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sachi009955@gmail.com&su=%5BGitHub%5D%20Contact%20from%20Profile&body=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C%20GitHub%20%ED%94%84%EB%A1%9C%ED%95%84%EC%9D%84%20%EB%B3%B4%EA%B3%A0%20%EC%97%B0%EB%9D%BD%EB%93%9C%EB%A6%BD%EB%8B%88%EB%8B%A4.%0A%0A-%20%EC%9D%B4%EB%A6%84%3A%20%0A-%20%EC%86%8C%EC%86%8D%3A%20%0A-%20%EB%AC%B8%EC%9D%98%20%EB%82%B4%EC%9A%A9%3A%20%0A%0A%EA%B0%90%EC%82%AC%ED%95%A9%EB%8B%88%EB%8B%A4."><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-        <a href="https://log8.kr"><img src="https://img.shields.io/badge/Blog-log8.kr-121212?style=for-the-badge"></a>
-        <a href="https://www.youtube.com/@Luckyducky-official"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-        <a href="https://www.linkedin.com/in/sweetheart2000/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+        <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sachi009955@gmail.com&su=%5BGitHub%5D%20Contact%20from%20Profile&body=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C%20GitHub%20%ED%94%84%EB%A1%9C%ED%95%84%EC%9D%84%20%EB%B3%B4%EA%B3%A0%20%EC%97%B0%EB%9D%BD%EB%93%9C%EB%A6%BD%EB%8B%88%EB%8B%A4.%0A%0A-%20%EC%9D%B4%EB%A6%84%3A%20%0A-%20%EC%86%8C%EC%86%8D%3A%20%0A-%20%EB%AC%B8%EC%9D%98%20%EB%82%B4%EC%9A%A9%3A%20%0A%0A%EA%B0%90%EC%82%AC%ED%95%A9%EB%8B%88%EB%8B%A4." target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+        <a href="https://log8.kr" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Blog-log8.kr-121212?style=for-the-badge"></a>
+        <a href="https://www.youtube.com/@Luckyducky-official" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+        <a href="https://www.linkedin.com/in/sweetheart2000/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     </p>
 </div>
