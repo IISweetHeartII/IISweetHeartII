@@ -13,17 +13,46 @@
 <br>
 
 <div align="center">
-    <h3 style="border-bottom: 2px solid #239128; color: #239128;">🛠️ Tech Stack</h3>
-    <p>
-      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-      <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-      <br>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-      <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-    </p>
+  <h3 style="border-bottom: 2px solid #239128; color: #239128;">🧑‍💼 About</h3>
+  <p>
+    수학적 사고력과 AI 도구를 결합해 빠르게 실험하고 학습하는 <b>프론트엔드 중심의 풀스택</b>입니다.<br>
+    <b>사용자경험</b>과 <b>생산성</b>을 동시에 높이는 것을 목표로 합니다.
+  </p>
+  <p>
+    - 닉네임: <b>리본</b> · 파트: <b>Web</b><br>
+    - 한 줄 소개: 기획→개발→코드리뷰까지 <b>AI 네이티브</b> 워크플로로 전체 공수를 약 <b>30% 절감</b>한 경험이 있습니다.
+  </p>
+</div>
+
+<br>
+
+<div align="center">
+  <h3 style="border-bottom: 2px solid #239128; color: #239128;">🛠️ Tech Stack</h3>
+  <p><b>Core</b></p>
+  <p>
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+    <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>
+    <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  </p>
+  <p><b>Proficient</b></p>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=white" alt="Astro"/>
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+  </p>
+  <p><b>Exploring</b></p>
+  <p>
+    <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+    <img src="https://img.shields.io/badge/Vertex%20AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Vertex AI"/>
+    <img src="https://img.shields.io/badge/n8n-EA4A35?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+    <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare"/>
+  </p>
+  <sub>표시는 대표 예시입니다. 자세한 스택은 프로젝트 레포지토리를 참고하세요.</sub>
 </div>
 
 <br>
