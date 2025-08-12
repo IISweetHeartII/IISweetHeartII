@@ -110,32 +110,56 @@
 
 <br>
 
-<div align="center">
-  <h3 style="border-bottom: 2px solid #239128; color: #239128;">📊 My GitHub Stats</h3>
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener">
-          <img src="https://github-readme-stats.vercel.app/api?username=IISweetHeartII&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&cache_seconds=7200" alt="IISweetHeartII's GitHub stats" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IISweetHeartII&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <h3 style="border-bottom: 2px solid #239128; color: #239128;">⏱️ When I Code & Activity</h3>
-  <p>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=IISweetHeartII&theme=github-compact" alt="Activity Graph"/>
-  </p>
-</div>
+<h4 align="center">Project Gallery</h4>
+<p align="center"><sub>아래 이미지는 <code>./assets</code> 경로에 넣으면 자동으로 표시됩니다. (예: <code>assets/habit-tracker.gif</code>)</sub></p>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/IISweetHeartII/smart-habit-tracker">
+        <img src="./assets/habit-tracker.gif" alt="Smart Habit Tracker demo" width="100%"/>
+      </a>
+      <br/>
+      <sub>Smart Habit Tracker</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/IISweetHeartII/issue-radar">
+        <img src="./assets/issue-radar.png" alt="Issue Radar screenshot" width="100%"/>
+      </a>
+      <br/>
+      <sub>Issue Radar</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/IISweetHeartII/dev-portal">
+        <img src="./assets/dev-portal.png" alt="Dev Portal UI" width="100%"/>
+      </a>
+      <br/>
+      <sub>Dev Portal</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/IISweetHeartII/genai-playground">
+        <img src="./assets/genai-playground.gif" alt="GenAI Playground demo" width="100%"/>
+      </a>
+      <br/>
+      <sub>GenAI Playground</sub>
+    </td>
+  </tr>
+</table>
 
 <br>
+
+<div align="center">
+  <h3 style="border-bottom: 2px solid #239128; color: #239128;">📊 My GitHub Stats</h3>
+  <p>
+    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener">
+      <img src="https://github-readme-stats.vercel.app/api?username=IISweetHeartII&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true&cache_seconds=7200" alt="IISweetHeartII's GitHub stats" width="49%"/>
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" rel="noopener">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IISweetHeartII&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&hide=html,css" alt="Top Languages" width="49%"/>
+    </a>
+  </p>
+</div>
 
 <hr/>
 
@@ -147,4 +171,15 @@
         <a href="https://www.youtube.com/@Luckyducky-official" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
         <a href="https://www.linkedin.com/in/sweetheart2000/" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     </p>
+</div>
+
+<br>
+
+<div align="center">
+  <h3 style="border-bottom: 2px solid #239128; color: #239128;">🐍 Contributions Snake</h3>
+  <a href="https://github.com/IISweetHeartII">
+    <img src="https://raw.githubusercontent.com/IISweetHeartII/IISweetHeartII/output/github-snake.svg" alt="contribution snake" />
+  </a>
+  <sub>매 6시간마다 자동 업데이트</sub>
+  <br/>
 </div>
