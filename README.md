@@ -6,21 +6,43 @@
 
 <div align="center"> 
   <h2 style="border-bottom: 2px solid #239128; color: #239128;">👋 Hello, I'm a Developer who loves to grow!</h2>
-  <p>사용자 경험에 대한 이해를 바탕으로, 안정적인 백엔드 시스템을 구축하는 <b>풀스택 개발자 김덕환</b>입니다.<br>
-  단순히 코드를 작성하는 것을 넘어, <b>AI를 활용한 스마트한 생산성 향상</b>과 <b>유저의 사랑을 받는 서비스</b>를 만드는 것에 큰 기쁨을 느낍니다.</p>
+  <p>
+    <b>AI 네이티브 프론트엔드 개발자 김덕환</b>입니다. 아이디어를 빠르게 검증하고, 자동화와 데이터 기반 의사결정으로
+    제품의 <b>사용자 경험</b>과 <b>개발 생산성</b>을 함께 끌어올리는 데 집중합니다.
+  </p>
+  <p>
+    최근에는 UI/프론트엔드 중심으로 BaaS(Supabase)와 LLM을 결합하여 서비스 프로토타입을 신속하게 제작하고,
+    기획→개발→리뷰 전 과정에 AI를 도입해 팀/개인 프로젝트 공수를 약 <b>30%</b> 절감했습니다.
+  </p>
+  <p>
+    <a href="https://log8.kr">블로그(log8.kr)</a> · 
+    <a href="https://github.com/IISweetHeartII">GitHub</a> · 
+    <a href="https://www.linkedin.com/in/sweetheart2000/">LinkedIn</a>
+  </p>
 </div>
+
+<br>
+
+<div align="center">
+  <h3 style="border-bottom: 2px solid #239128; color: #239128;">🧠 AI Impact & Toolkit</h3>
+</div>
+
+- **프로세스 효율화**: 기획·기술 검증·개발·코드리뷰 전 과정에 AI를 도입하여 전체 공수 약 <b>30%</b> 절감
+- **품질 향상**: 자동 리뷰/테스트 보조로 PR 리드타임 단축 및 버그 회귀 감소
+- **LLM 활용**: RAG·LangGraph 기반 프로토타이핑, 챗봇/요약/분류 기능 실험과 운영
+- **툴킷**: Cursor AI, Gemini CLI, OpenAI/Gemini API, Vertex AI, Flowith, n8n, Supabase
 
 <br>
 
 <div align="center">
   <h3 style="border-bottom: 2px solid #239128; color: #239128;">🧑‍💼 About</h3>
   <p>
-    수학적 사고력과 AI 도구를 결합해 빠르게 실험하고 학습하는 <b>프론트엔드 중심의 풀스택</b>입니다.<br>
-    <b>사용자경험</b>과 <b>생산성</b>을 동시에 높이는 것을 목표로 합니다.
+    수학적 사고력을 바탕으로 문제를 구조화하고, 데이터와 실험으로 의사결정하는 <b>프론트엔드 중심의 풀스택</b>입니다.<br>
+    제품 임팩트를 최우선으로, 작게 만들고 빠르게 학습해 개선합니다.
   </p>
   <p>
     - 닉네임: <b>리본</b> · 파트: <b>Web</b><br>
-    - 한 줄 소개: 기획→개발→코드리뷰까지 <b>AI 네이티브</b> 워크플로로 전체 공수를 약 <b>30% 절감</b>한 경험이 있습니다.
+    - 한 줄 소개: <b>AI 네이티브</b> 워크플로로 아이디어→서비스 전환 속도를 높이는 개발자
   </p>
 </div>
 
@@ -92,12 +114,16 @@
 
 <div align="center">
   <h3 style="border-bottom: 2px solid #239128; color: #239128;">⏱️ When I Code & Activity</h3>
-  <p>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IISweetHeartII&theme=github_dark&utcOffset=9" alt="Productive time"/>
-  </p>
-  <p>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=IISweetHeartII&theme=github-compact" alt="Activity Graph"/>
-  </p>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IISweetHeartII&theme=github_dark&utcOffset=9" alt="Productive time" width="420"/>
+      </td>
+      <td>
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=IISweetHeartII&theme=github-compact" alt="Activity Graph" width="420"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
@@ -105,8 +131,9 @@
 <div align="center">
     <h3 style="border-bottom: 2px solid #239128; color: #239128;">📬 Contact & Socials</h3>
     <p>
-      <a href="mailto:sachi009955@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-      <a href="https://your-blog.com"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"></a>
-      <a href="https://www.linkedin.com/in/your-profile/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+      <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sachi009955@gmail.com&su=%5BGitHub%5D%20Contact%20from%20Profile&body=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C%20GitHub%20%ED%94%84%EB%A1%9C%ED%95%84%EC%9D%84%20%EB%B3%B4%EA%B3%A0%20%EC%97%B0%EB%9D%BD%EB%93%9C%EB%A6%BD%EB%8B%88%EB%8B%A4.%0A%0A-%20%EC%9D%B4%EB%A6%84%3A%20%0A-%20%EC%86%8C%EC%86%8D%3A%20%0A-%20%EB%AC%B8%EC%9D%98%20%EB%82%B4%EC%9A%A9%3A%20%0A%0A%EA%B0%90%EC%82%AC%ED%95%A9%EB%8B%88%EB%8B%A4."><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+        <a href="https://log8.kr"><img src="https://img.shields.io/badge/Blog-log8.kr-121212?style=for-the-badge"></a>
+        <a href="https://www.youtube.com/@Luckyducky-official"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+        <a href="https://www.linkedin.com/in/sweetheart2000/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
     </p>
 </div>
