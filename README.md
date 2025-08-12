@@ -6,7 +6,6 @@
 
 <div align="center"> 
   <h2 style="border-bottom: 2px solid #239128; color: #239128;">👋 Hello, I'm a Developer who loves to grow!</h2>
-  <img src="./Cinnamoroll.png" width="120" alt="Cinnamoroll" style="margin: 12px 0;"/>
   <p>사용자 경험에 대한 이해를 바탕으로, 안정적인 백엔드 시스템을 구축하는 <b>풀스택 개발자 김덕환</b>입니다.<br>
   단순히 코드를 작성하는 것을 넘어, <b>AI를 활용한 스마트한 생산성 향상</b>과 <b>유저의 사랑을 받는 서비스</b>를 만드는 것에 큰 기쁨을 느낍니다.</p>
 </div>
@@ -29,66 +28,27 @@
 
 <br>
 
-<div align="center">
-    <h3 style="border-bottom: 2px solid #239128; color: #239128;">🚀 Featured Projects</h3>
-    
-    <!-- 작성 예시 템플릿 -->
-    <details>
-      <summary><b>작성 템플릿 보기 (예시)</b></summary>
-      <div align="left">
-        <p>
-          <b>프로젝트명</b>: Awesome Service<br/>
-          <b>역할</b>: Backend Lead (아키텍처 설계·배포 자동화·핵심 도메인 개발)<br/>
-          <b>핵심기술</b>: Spring Boot, JPA, MySQL, Redis, AWS(ECS/Fargate), GitHub Actions<br/>
-          <b>성과</b>: 평균 응답 280ms → 110ms, 비용 32% 절감, 월간 활성 3,000명 달성<br/>
-          <b>링크</b>: <a href="#">Demo</a> · <a href="#">Repository</a>
-        </p>
-      </div>
-    </details>
+<h3 align="center" style="border-bottom: 2px solid #239128; color: #239128;">🚀 Featured Projects</h3>
 
-    <!-- 샘플 카드 -->
-    <table>
-      <tr>
-        <td>
-          <b>Smart Habit Tracker</b><br/>
-          역할: Full‑stack · 개인 프로젝트<br/>
-          스택: Spring Boot · React · MySQL · Redis · Docker · AWS<br/>
-          성과: 일간 재방문 25% · Lighthouse Perf 95점
-          <div>
-            <a href="https://github.com/IISweetHeartII/smart-habit-tracker">Repo</a>
-            · <a href="#">Demo</a>
-          </div>
-        </td>
-        <td>
-          <b>Issue Radar</b><br/>
-          역할: Backend · 팀 3인 협업<br/>
-          스택: Spring · MySQL · JPA · Flyway · GitHub Actions
-          <div>
-            <a href="https://github.com/IISweetHeartII/issue-radar">Repo</a>
-          </div>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <b>Dev Portal</b><br/>
-          역할: Frontend · 디자인 시스템 구축<br/>
-          스택: React · TypeScript · Vite · Storybook
-          <div>
-            <a href="https://github.com/IISweetHeartII/dev-portal">Repo</a>
-          </div>
-        </td>
-        <td>
-          <b>GenAI Playground</b><br/>
-          역할: Prototype · AI 실험 공간<br/>
-          스택: Python · FastAPI · OpenAI · Supabase
-          <div>
-            <a href="https://github.com/IISweetHeartII/genai-playground">Repo</a>
-          </div>
-        </td>
-      </tr>
-    </table>
+<details>
+  <summary><b>작성 템플릿 보기 (복사해 사용)</b></summary>
 
-</div>
+```md
+- 프로젝트명: Awesome Service
+  - 역할: Backend Lead (아키텍처 설계/배포 자동화/핵심 도메인)
+  - 핵심기술: Spring Boot, JPA, MySQL, Redis, AWS(ECS/Fargate), GitHub Actions
+  - 성과: 평균 응답 280ms → 110ms, 비용 32% 절감, 월간 활성 3,000명
+  - 링크: Demo | Repository
+```
+
+</details>
+
+| 프로젝트            | 역할                   | 스택                                               | 성과/하이라이트                          | 링크                                                                 |
+| ------------------- | ---------------------- | -------------------------------------------------- | ---------------------------------------- | -------------------------------------------------------------------- |
+| Smart Habit Tracker | Full‑stack · 개인      | Spring Boot · React · MySQL · Redis · Docker · AWS | 일간 재방문 25% · Lighthouse Perf 95점   | [Repo](https://github.com/IISweetHeartII/smart-habit-tracker) · Demo |
+| Issue Radar         | Backend · 팀 협업(3인) | Spring · MySQL · JPA · Flyway · GitHub Actions     | 이슈 자동 triage · CI/CD 파이프라인 구축 | [Repo](https://github.com/IISweetHeartII/issue-radar)                |
+| Dev Portal          | Frontend               | React · TypeScript · Vite · Storybook              | 디자인 시스템/컴포넌트 도큐먼트화        | [Repo](https://github.com/IISweetHeartII/dev-portal)                 |
+| GenAI Playground    | Prototype              | Python · FastAPI · OpenAI · Supabase               | 실험적 기능 PoC                          | [Repo](https://github.com/IISweetHeartII/genai-playground)           |
 
 <br>
 
@@ -110,21 +70,6 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=IISweetHeartII&theme=github-compact" alt="Activity Graph"/>
   </p>
 </div>
-
-<br>
-
-<details>
-  <summary><b>🏆 Trophies & Fun</b> (보조 섹션)</summary>
-  <div align="center" style="margin-top: 8px;">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=IISweetHeartII&theme=tokyonight&row=1&column=6&no-bg=true&no-frame=true&margin-w=5&margin-h=5" alt="Trophies" />
-    </a>
-    <br/>
-    <a href="https://github.com/IISweetHeartII">
-      <img src="https://raw.githubusercontent.com/IISweetHeartII/IISweetHeartII/output/github-contribution-grid-snake.svg" width="700" alt="contribution snake" />
-    </a>
-  </div>
-</details>
 
 <br>
 
