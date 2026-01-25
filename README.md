@@ -101,12 +101,12 @@
 
 </details>
 
-| 프로젝트            | 역할                   | 스택                                               | 성과/하이라이트                          | 링크                                                                 |
-| ------------------- | ---------------------- | -------------------------------------------------- | ---------------------------------------- | -------------------------------------------------------------------- |
-| Smart Habit Tracker | Full‑stack · 개인      | Spring Boot · React · MySQL · Redis · Docker · AWS | 일간 재방문 25% · Lighthouse Perf 95점   | [Repo](https://github.com/IISweetHeartII/smart-habit-tracker) · Demo |
-| Issue Radar         | Backend · 팀 협업(3인) | Spring · MySQL · JPA · Flyway · GitHub Actions     | 이슈 자동 triage · CI/CD 파이프라인 구축 | [Repo](https://github.com/IISweetHeartII/issue-radar)                |
-| Dev Portal          | Frontend               | React · TypeScript · Vite · Storybook              | 디자인 시스템/컴포넌트 도큐먼트화        | [Repo](https://github.com/IISweetHeartII/dev-portal)                 |
-| GenAI Playground    | Prototype              | Python · FastAPI · OpenAI · Supabase               | 실험적 기능 PoC                          | [Repo](https://github.com/IISweetHeartII/genai-playground)           |
+| 프로젝트      | 역할                     | 스택                                         | 성과/하이라이트                                        | 링크                                                                                        |
+| ------------- | ------------------------ | -------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------------------------------------------- |
+| Omechu        | Frontend Lead · 팀(10인) | Next.js · TypeScript · TailwindCSS · Zustand | JWT 기반 카카오 OAuth 인증 · FSD 아키텍처 마이그레이션 | [Repo](https://github.com/Team-Omechu/Omechu-web) · [Demo](https://omechu.log8.kr)          |
+| Finders       | Frontend · 팀 협업       | React · TypeScript · TailwindCSS             | 위치 기반 서비스 MVP 개발                              | [Repo](https://github.com/Finders-Official/FE) · [Demo](https://finders.it.kr)              |
+| UMC Hackathon | Frontend · 팀(4인)       | React · TypeScript                           | 해커톤 MVP 신속 개발                                   | [Repo](https://github.com/umc-hackaton-4team/FE) · [Demo](https://goodgame-fe.snowfrost.kr) |
+| log8.kr       | Full-stack · 개인        | Astro · TailwindCSS · Cloudflare Pages       | 기술 블로그 · Lighthouse Perf 95+                      | [Repo](https://github.com/IISweetHeartII/My_Website_Astro) · [Demo](https://log8.kr)        |
 
 <br>
 <!-- 
