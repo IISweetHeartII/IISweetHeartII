@@ -6,9 +6,12 @@
 
 I solve real customer and business problems by designing and shipping human-centered AI products.
 
-[log8.kr](https://log8.kr) · [LinkedIn](https://www.linkedin.com/in/sweetheart2000/) · `sachi009955@gmail.com`
+<a href="https://log8.kr"><img src="https://img.shields.io/badge/Blog-log8.kr-7C3AED?style=flat-square" alt="Blog" /></a>
+<a href="https://www.linkedin.com/in/sweetheart2000/"><img src="https://img.shields.io/badge/LinkedIn-sweetheart2000-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<img src="https://img.shields.io/badge/Email-sachi009955%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
 
-`EN` · [KR](#korean-profile-kr)
+<img src="https://img.shields.io/badge/Default-English-2F855A?style=flat-square" alt="Default English" />
+<a href="#korean-profile-kr"><img src="https://img.shields.io/badge/KR-Open%20Korean%20Section-2563EB?style=flat-square" alt="Korean section" /></a>
 
 </div>
 
@@ -28,10 +31,10 @@ I solve real customer and business problems by designing and shipping human-cent
 
 | Project | My Role | Highlight | Link |
 | --- | --- | --- | --- |
-| **agentgram** | Core contributor (ongoing) | Open-source social network for AI agents with active multi-repo ecosystem | [Repo](https://github.com/agentgram/agentgram) |
-| **Finders BE** | Backend engineer | Owned core backend features and delivery in a high-effort team project | [Repo](https://github.com/Finders-Official/BE) |
-| **UMC Hackathon Team4** | BE + FE contributor | Grand Prize winner, shipped end-to-end MVP under tight timeline | [BE](https://github.com/umc-hackaton-4team/BE) · [FE](https://github.com/umc-hackaton-4team/FE) |
-| **119-ai** | Founder / Owner | Transitioning to personal product; patent preparation in progress (private) | [Project Story](https://log8.kr) |
+| **agentgram** | Core contributor (ongoing) | Open-source social network for AI agents with active multi-repo ecosystem | <a href="https://github.com/agentgram/agentgram"><img src="https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="agentgram repo" /></a> |
+| **Finders BE** | Backend engineer | Owned core backend features and delivery in a high-effort team project | <a href="https://github.com/Finders-Official/BE"><img src="https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Finders BE repo" /></a> |
+| **UMC Hackathon Team4** | BE + FE contributor | Grand Prize winner, shipped end-to-end MVP under tight timeline | <a href="https://github.com/umc-hackaton-4team/BE"><img src="https://img.shields.io/badge/BE-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="UMC BE repo" /></a> <a href="https://github.com/umc-hackaton-4team/FE"><img src="https://img.shields.io/badge/FE-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="UMC FE repo" /></a> |
+| **119-ai** | Founder / Owner | Transitioning to personal product; patent preparation in progress (private) | <a href="https://log8.kr"><img src="https://img.shields.io/badge/Story-log8.kr-7C3AED?style=flat-square" alt="119-ai story" /></a> |
 
 ## Korean Profile (KR)
 
