@@ -5,7 +5,7 @@ permissions:
 
 on:
   schedule:
-    - cron: "0 */6 * * *" # every 6 hours
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 jobs:
@@ -21,9 +21,6 @@ jobs:
           github_user_name: IISweetHeartII
           outputs: |
             dist/github-snake.svg
-
-      - name: Show git status (debug)
-        run: git status
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v3
