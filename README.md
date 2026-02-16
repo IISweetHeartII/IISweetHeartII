@@ -1,5 +1,7 @@
 # Hi, I'm Deokhwan Kim (IISweetHeartII)
 
+## AI Product Engineer (Human-Centered)
+
 I am a relentless problem solver who ships practical products fast.
 
 - Blog: [log8.kr](https://log8.kr)
