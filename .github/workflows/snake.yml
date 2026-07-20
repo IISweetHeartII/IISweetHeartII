@@ -15,12 +15,21 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Generate snake SVG
-        uses: Platane/snk/svg-only@v3
+      - name: Setup Node
+        uses: actions/setup-node@v4
         with:
-          github_user_name: IISweetHeartII
-          outputs: |
-            dist/github-snake.svg
+          node-version: 22
+
+      # Same generator the Platane/snk action wraps, but the contribution grid
+      # is read from the public profile page instead of the GraphQL API, which
+      # rejects this account's calendar query. See the patch for details.
+      - name: Generate snake SVG
+        run: |
+          npm install --no-save generate-snake-animation@3.5.0
+          node --import ./scripts/contribution-source-patch.mjs \
+            node_modules/generate-snake-animation/cli.js \
+            --github_user IISweetHeartII \
+            --output dist/github-snake.svg
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v3
