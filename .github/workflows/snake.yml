@@ -23,12 +23,14 @@ jobs:
       # Same generator the Platane/snk action wraps, but the contribution grid
       # is read from the public profile page instead of the GraphQL API, which
       # rejects this account's calendar query. See the patch for details.
+      # The token is only there to satisfy the generator's own presence check.
       - name: Generate snake SVG
         run: |
           npm install --no-save generate-snake-animation@3.5.0
           node --import ./scripts/contribution-source-patch.mjs \
             node_modules/generate-snake-animation/cli.js \
             --github_user IISweetHeartII \
+            --github_token ${{ github.token }} \
             --output dist/github-snake.svg
 
       - name: Publish to output branch
