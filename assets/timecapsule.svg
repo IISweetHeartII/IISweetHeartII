@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="400" viewBox="0 0 900 400" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', monospace">
   <defs>
-    <clipPath id="t1"><rect x="34" y="176" width="0" height="22"><animate attributeName="width" values="0;0;620;620;620" keyTimes="0;0.03;0.19;0.86;1" dur="16s" repeatCount="indefinite" /></rect></clipPath>
-    <clipPath id="t2"><rect x="34" y="206" width="0" height="22"><animate attributeName="width" values="0;0;540;540;540" keyTimes="0;0.20;0.34;0.86;1" dur="16s" repeatCount="indefinite" /></rect></clipPath>
-    <clipPath id="t3"><rect x="34" y="236" width="0" height="22"><animate attributeName="width" values="0;0;700;700;700" keyTimes="0;0.35;0.53;0.86;1" dur="16s" repeatCount="indefinite" /></rect></clipPath>
-    <clipPath id="t4"><rect x="34" y="272" width="0" height="22"><animate attributeName="width" values="0;0;340;340;340" keyTimes="0;0.55;0.64;0.86;1" dur="16s" repeatCount="indefinite" /></rect></clipPath>
+    <clipPath id="t1"><rect x="34" y="176" width="0" height="22"><animate attributeName="width" values="0;0;730;730;730" keyTimes="0;0.03;0.19;0.86;1" dur="16s" repeatCount="indefinite" /></rect></clipPath>
+    <clipPath id="t2"><rect x="34" y="206" width="0" height="22"><animate attributeName="width" values="0;0;450;450;450" keyTimes="0;0.20;0.34;0.86;1" dur="16s" repeatCount="indefinite" /></rect></clipPath>
+    <clipPath id="t3"><rect x="34" y="236" width="0" height="22"><animate attributeName="width" values="0;0;760;760;760" keyTimes="0;0.35;0.53;0.86;1" dur="16s" repeatCount="indefinite" /></rect></clipPath>
+    <clipPath id="t4"><rect x="34" y="272" width="0" height="22"><animate attributeName="width" values="0;0;280;280;280" keyTimes="0;0.55;0.64;0.86;1" dur="16s" repeatCount="indefinite" /></rect></clipPath>
   </defs>
 
   <rect width="900" height="400" rx="12" fill="#0b0b12" />
@@ -18,20 +18,20 @@
     <rect x="62" y="58" width="11" height="11" rx="1" /><rect x="76" y="58" width="11" height="11" rx="1" />
   </g>
 
-  <text x="104" y="41" fill="#eaeaf2" font-size="15" font-weight="700">김덕환</text>
+  <text x="104" y="41" fill="#eaeaf2" font-size="15" font-weight="700">Deokhwan Kim</text>
   <text x="104" y="62" fill="#7a7a8f" font-size="13">A Time Capsule</text>
   <text x="104" y="82" fill="#7a7a8f" font-size="13">2020 — 2026</text>
 
   <!-- chapter tabs -->
-  <rect x="28" y="110" width="76" height="24" rx="5" fill="#7C3AED" />
+  <rect x="28" y="110" width="72" height="24" rx="5" fill="#7C3AED" />
   <g font-size="12.5" fill="#6e6e85">
-    <text x="34" y="127" fill="#ffffff">I. 시작</text>
-    <text x="122" y="127">II. 전환</text>
-    <text x="220" y="127">III. 함대</text>
-    <text x="326" y="127">IV. 만든 것들</text>
-    <text x="470" y="127">V. 임팩트</text>
-    <text x="576" y="127">VI. 지금</text>
-    <text x="672" y="127">VII. 연락</text>
+    <text x="34" y="127" fill="#ffffff">I. START</text>
+    <text x="120" y="127">II. THE TURN</text>
+    <text x="236" y="127">III. THE FLEET</text>
+    <text x="367" y="127">IV. BUILT</text>
+    <text x="461" y="127">V. IMPACT</text>
+    <text x="555" y="127">VI. NOW</text>
+    <text x="634" y="127">VII. CONTACT</text>
     <text x="866" y="127" text-anchor="end" fill="#4d4d61">(←/→)</text>
   </g>
   <line x1="28" y1="148" x2="872" y2="148" stroke="#20202e" stroke-width="1" />
@@ -39,25 +39,25 @@
   <!-- body, typed out -->
   <g font-size="13.5" fill="#c8c8d8">
     <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.88;0.93;1" dur="16s" repeatCount="indefinite" />
-    <text x="34" y="192" clip-path="url(#t1)">저는 숫자로 세상을 봤습니다. 수학과에서 증명과 구조에 빠져 살았죠.</text>
-    <text x="34" y="222" clip-path="url(#t2)">증명은 아름다웠지만, 아무도 그걸 쓰지는 못했습니다.</text>
-    <text x="34" y="252" clip-path="url(#t3)">저는 점점 '풀리는 문제'보다 '누군가에게 닿는 문제'가 궁금해졌어요.</text>
-    <text x="34" y="288" clip-path="url(#t4)">그때 이야기, 조금 더 볼까요?</text>
+    <text x="34" y="192" clip-path="url(#t1)">I saw the world in numbers. In the math department I lived inside proofs.</text>
+    <text x="34" y="222" clip-path="url(#t2)">They were beautiful. Nobody could use them.</text>
+    <text x="34" y="252" clip-path="url(#t3)">I grew less curious about problems that solve, and more about problems that reach someone.</text>
+    <text x="34" y="288" clip-path="url(#t4)">Want to see how that went?</text>
   </g>
 
   <!-- choices -->
   <g font-size="13.5">
-    <rect x="30" y="304" width="196" height="24" rx="4" fill="#7C3AED" opacity="0">
+    <rect x="30" y="304" width="180" height="24" rx="4" fill="#7C3AED" opacity="0">
       <animate attributeName="opacity" values="0;0;0.20;0.20;0;0" keyTimes="0;0.80;0.83;0.87;0.90;1" dur="16s" repeatCount="indefinite" />
     </rect>
     <text x="36" y="321" fill="#7C3AED" opacity="0">
       <animate attributeName="opacity" values="0;0;1;0.3;1;0.3;1;0;0" keyTimes="0;0.66;0.68;0.72;0.76;0.80;0.84;0.90;1" dur="16s" repeatCount="indefinite" />&#8250;</text>
     <text x="58" y="321" fill="#b9b9cc" opacity="0">
-      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.66;0.68;0.87;0.90;1" dur="16s" repeatCount="indefinite" />1. 네, 보여줘</text>
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.66;0.68;0.87;0.90;1" dur="16s" repeatCount="indefinite" />1. Yes, show me</text>
     <text x="58" y="347" fill="#5b5b70" opacity="0">
-      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.70;0.72;0.87;0.90;1" dur="16s" repeatCount="indefinite" />2. 건너뛰기</text>
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.70;0.72;0.87;0.90;1" dur="16s" repeatCount="indefinite" />2. Skip</text>
   </g>
 
   <text x="34" y="376" fill="#4d4d61" font-size="11.5" opacity="0">
-    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.70;0.72;0.87;0.90;1" dur="16s" repeatCount="indefinite" />1/2 또는 Enter 선택 &#183; ↑/↓ 이동</text>
+    <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.70;0.72;0.87;0.90;1" dur="16s" repeatCount="indefinite" />1/2 or Enter to select &#183; ↑/↓ to move</text>
 </svg>

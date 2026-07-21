@@ -79,7 +79,7 @@ Everything above is a card on a shared kanban board. Agents claim cards atomical
     <img src="https://raw.githubusercontent.com/IISweetHeartII/IISweetHeartII/main/assets/timecapsule.svg" width="820" alt="A Time Capsule — an interactive terminal résumé at log8.kr/about" />
   </a>
 
-  <sub>Seven chapters, navigated like a terminal. <a href="https://log8.kr/about/">Open the real one</a> — it answers back.</sub>
+  <sub>Seven chapters, navigated like a terminal. <a href="https://log8.kr/about/">Open the real one</a> — it answers back. (Written in Korean.)</sub>
 
 </div>
 
