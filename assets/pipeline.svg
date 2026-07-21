@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif">
+  <defs>
+    <linearGradient id="pbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117" />
+      <stop offset="100%" stop-color="#171029" />
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="260" rx="14" fill="url(#pbg)" />
+
+  <text x="34" y="42" fill="#f2f2f7" font-size="17" font-weight="700">Every card walks this line, unattended</text>
+  <text x="34" y="65" fill="#8b8b9e" font-size="13">Research and code get produced, reviewed and shipped while I sleep. I only stand at one gate.</text>
+
+  <!-- track -->
+  <line x1="120" y1="152" x2="800" y2="152" stroke="#2b2b3d" stroke-width="2" />
+
+  <!-- stations -->
+  <g>
+    <!-- research -->
+    <rect x="62" y="132" width="116" height="40" rx="10" fill="#1b1b2b" stroke="#3a3a52" />
+    <text x="120" y="122" text-anchor="middle" fill="#c9c9d6" font-size="13" font-weight="600">RESEARCH</text>
+    <text x="120" y="192" text-anchor="middle" fill="#6f6f85" font-size="11.5">luna</text>
+
+    <!-- review -->
+    <rect x="232" y="132" width="116" height="40" rx="10" fill="#1b1b2b" stroke="#3a3a52" />
+    <text x="290" y="122" text-anchor="middle" fill="#c9c9d6" font-size="13" font-weight="600">REVIEW</text>
+    <text x="290" y="192" text-anchor="middle" fill="#6f6f85" font-size="11.5">navi</text>
+
+    <!-- build -->
+    <rect x="402" y="132" width="116" height="40" rx="10" fill="#1b1b2b" stroke="#3a3a52" />
+    <text x="460" y="122" text-anchor="middle" fill="#c9c9d6" font-size="13" font-weight="600">BUILD</text>
+    <text x="460" y="192" text-anchor="middle" fill="#6f6f85" font-size="11.5">kkami</text>
+
+    <!-- human gate -->
+    <rect x="572" y="132" width="116" height="40" rx="10" fill="#241a08" stroke="#f59e0b">
+      <animate attributeName="stroke-opacity" values="1;0.35;1" dur="2.4s" repeatCount="indefinite" />
+    </rect>
+    <text x="630" y="122" text-anchor="middle" fill="#fbbf24" font-size="13" font-weight="600">HUMAN</text>
+    <text x="630" y="192" text-anchor="middle" fill="#a97c2a" font-size="11.5">me</text>
+
+    <!-- publish -->
+    <rect x="742" y="132" width="116" height="40" rx="10" fill="#0d2019" stroke="#10b981" />
+    <text x="800" y="122" text-anchor="middle" fill="#5eead4" font-size="13" font-weight="600">PUBLISH</text>
+    <text x="800" y="192" text-anchor="middle" fill="#4b8c78" font-size="11.5">rosie</text>
+  </g>
+
+  <!-- travelling cards -->
+  <g fill="#7C3AED">
+    <circle cy="152" r="6.5" cx="120" opacity="0">
+      <animate attributeName="cx" values="120;120;290;290;460;460;630;630;800;800" keyTimes="0;0.05;0.15;0.25;0.35;0.45;0.55;0.78;0.88;1" dur="15s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.04;0.86;0.93;1" dur="15s" repeatCount="indefinite" />
+    </circle>
+    <circle cy="152" r="6.5" cx="120" opacity="0">
+      <animate attributeName="cx" values="120;120;290;290;460;460;630;630;800;800" keyTimes="0;0.05;0.15;0.25;0.35;0.45;0.55;0.78;0.88;1" dur="15s" begin="-5s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.04;0.86;0.93;1" dur="15s" begin="-5s" repeatCount="indefinite" />
+    </circle>
+    <circle cy="152" r="6.5" cx="120" opacity="0">
+      <animate attributeName="cx" values="120;120;290;290;460;460;630;630;800;800" keyTimes="0;0.05;0.15;0.25;0.35;0.45;0.55;0.78;0.88;1" dur="15s" begin="-10s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.04;0.86;0.93;1" dur="15s" begin="-10s" repeatCount="indefinite" />
+    </circle>
+  </g>
+
+  <!-- outputs -->
+  <text x="450" y="234" text-anchor="middle" fill="#6f6f85" font-size="12.5">blog posts &#183; YouTube videos &#183; merged pull requests</text>
+</svg>

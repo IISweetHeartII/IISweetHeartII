@@ -1,70 +1,79 @@
 <div align="center">
 
-# Hi, I'm Deokhwan Kim (IISweetHeartII)
-
-### AI Product Engineer (Human-Centered)
-
-I solve real customer and business problems by designing and shipping human-centered AI products.
+<img src="https://raw.githubusercontent.com/IISweetHeartII/IISweetHeartII/main/assets/header.svg" width="820" alt="Deokhwan Kim — AI Product Engineer" />
 
 <a href="https://log8.kr"><img src="https://img.shields.io/badge/Blog-log8.kr-7C3AED?style=flat-square" alt="Blog" /></a>
 <a href="https://www.linkedin.com/in/sweetheart2000/"><img src="https://img.shields.io/badge/LinkedIn-sweetheart2000-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <img src="https://img.shields.io/badge/Email-sachi009955%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
 
-<img src="https://img.shields.io/badge/Default-English-2F855A?style=flat-square" alt="Default English" />
-<a href="#korean-profile-kr"><img src="https://img.shields.io/badge/KR-Open%20Korean%20Section-2563EB?style=flat-square" alt="Korean section" /></a>
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/IISweetHeartII/IISweetHeartII/main/assets/pipeline.svg" width="820" alt="Research to review to build to human approval to publish" />
+
+**41** scheduled jobs&nbsp; ·&nbsp; **7** agents&nbsp; ·&nbsp; **307** cards shipped&nbsp; ·&nbsp; **172** posts published
 
 </div>
 
-## English Profile
+I build AI products, and I build the machinery that ships them. A fleet of agents runs on a Mac mini in my apartment: it researches, writes, codes, reviews itself, and publishes. I stand at one gate in the middle and approve.
 
-### Core Focus
-- Build AI-native products with fast feedback loops
-- Own backend quality: architecture, reliability, and API delivery
-- Turn hackathon prototypes into sustainable products
+---
 
-### What "Relentless Problem Solver" Means
-1. I invest my own time and money to validate new technologies, especially AI.
-2. I share practical and up-to-date knowledge with people around me.
-3. I prioritize real outcomes: customer value, business impact, and product adoption.
-
-### Featured Projects
-
-| Project | My Role | Highlight | Link |
-| --- | --- | --- | --- |
-| **agentgram** | Core contributor (ongoing) | Open-source social network for AI agents with active multi-repo ecosystem | <a href="https://github.com/agentgram/agentgram"><img src="https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="agentgram repo" /></a> |
-| **Finders BE** | Backend engineer | Owned core backend features and delivery in a high-effort team project | <a href="https://github.com/Finders-Official/BE"><img src="https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="Finders BE repo" /></a> |
-| **UMC Hackathon Team4** | BE + FE contributor | Grand Prize winner, shipped end-to-end MVP under tight timeline | <a href="https://github.com/umc-hackaton-4team/BE"><img src="https://img.shields.io/badge/BE-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="UMC BE repo" /></a> <a href="https://github.com/umc-hackaton-4team/FE"><img src="https://img.shields.io/badge/FE-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="UMC FE repo" /></a> |
-| **119-ai** | Founder / Owner | Transitioning to personal product; patent preparation in progress (private) | <a href="https://log8.kr"><img src="https://img.shields.io/badge/Story-log8.kr-7C3AED?style=flat-square" alt="119-ai story" /></a> |
-
-## Korean Profile (KR)
-
-<details>
-<summary>한국어 소개 펼치기</summary>
-
-아끼지 않는 문제해결사 김덕환입니다.
-
-저는 사람 중심의 AI 제품을 설계하고 구현해, 고객과 비즈니스의 실제 문제를 해결하는 데 집중합니다.
-
-### 집중 분야
-- AI 네이티브 제품 개발과 빠른 실험
-- 백엔드 품질 책임(아키텍처, 안정성, API)
-- 해커톤 결과물의 제품화
-
-### 제가 말하는 "아끼지 않는 문제해결사"
-1. AI 같은 신기술 검증에 시간과 비용을 아끼지 않습니다.
-2. 최신 정보와 좋은 지식을 주변에 적극 공유합니다.
-3. 고객과 비즈니스 관점에서 진짜 문제를 발굴하고 해결합니다.
-
-### 주요 프로젝트
-- **agentgram**: 오픈소스 AI 에이전트 소셜 네트워크 코어 기여
-- **Finders BE**: 팀 프로젝트 백엔드 핵심 기능 개발 및 운영 기여
-- **UMC Hackathon Team4**: BE+FE 참여, 해커톤 대상
-- **119-ai**: 개인 제품화 진행 중 (특허 준비로 코드 비공개)
-
-</details>
-
-## Contributions Snake
+## AgentGram
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/IISweetHeartII/IISweetHeartII/output/github-snake.svg" alt="Contribution snake" />
+  <a href="https://agentgram.co">
+    <img src="https://raw.githubusercontent.com/IISweetHeartII/IISweetHeartII/main/assets/agentgram.png" width="820" alt="AgentGram — the social network built for AI agents" />
+  </a>
+</div>
+
+An open-source social network where the users are AI agents. API-first, self-hostable, Ed25519-signed identity — no CAPTCHAs, no anti-bot terms.
+
+Most of the code lands without a human touching the keyboard: a seeder files build cards, a dispatcher spawns the agent that writes them, and a second agent reviews the pull request before it merges.
+
+<div align="center">
+
+**770** pull requests merged by that pipeline&nbsp; ·&nbsp; **122** in the last 30 days
+
+<a href="https://agentgram.co"><img src="https://img.shields.io/badge/Live-agentgram.co-10B981?style=flat-square" alt="Live" /></a>
+<a href="https://github.com/agentgram/agentgram"><img src="https://img.shields.io/github/stars/agentgram/agentgram?style=flat-square&logo=github&label=agentgram" alt="agentgram" /></a>
+<a href="https://github.com/agentgram/ax-score"><img src="https://img.shields.io/github/stars/agentgram/ax-score?style=flat-square&logo=github&label=ax-score" alt="ax-score" /></a>
+<a href="https://github.com/agentgram/agentgram-mcp"><img src="https://img.shields.io/badge/MCP-server-8B5CF6?style=flat-square" alt="MCP server" /></a>
+
+</div>
+
+---
+
+## What the fleet runs
+
+| Pipeline | How it works | Output so far |
+| --- | --- | --- |
+| **Autonomous coding** | Seeder files a build card → dispatcher spawns the builder → a reviewer agent gates the PR → release promotion | 770 PRs merged |
+| **Blog publishing** | Topic scan → research → draft → citation backfill → design pass → ship to log8.kr | 172 posts |
+| **SEO / GEO** | GA4 and Search Console feed back into topic selection, so briefs come from real queries instead of guesses | Strategy validated against live traffic |
+| **YouTube** | Research → editorial review → script and render → **I approve** → publish | Daily chain, 03:00 |
+| **Self-maintenance** | Health checks, secret audits, config backup, memory consolidation, skill curation | The fleet keeps itself alive |
+
+Everything above is a card on a shared kanban board. Agents claim cards atomically, run in isolated workspaces, and hand off through documents rather than by calling each other. Anything irreversible stops at a human gate.
+
+---
+
+## Also built
+
+| Project | Role | Note |
+| --- | --- | --- |
+| **[log8-office](https://github.com/IISweetHeartII/log8-office)** | Author | CC0 pixel office that visualises an agent team at work |
+| **[Finders BE](https://github.com/Finders-Official/BE)** | Backend engineer | Owned core backend features and delivery |
+| **[UMC Hackathon Team4](https://github.com/umc-hackaton-4team/BE)** | BE + FE | Grand Prize, end-to-end MVP under a tight deadline |
+| **119-ai** | Founder | Personal product, patent preparation in progress |
+
+---
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/IISweetHeartII/IISweetHeartII/output/github-snake.svg" alt="Contribution snake" />
+
 </div>

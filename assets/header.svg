@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="190" viewBox="0 0 900 190" font-family="ui-sans-serif, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117" />
+      <stop offset="55%" stop-color="#161028" />
+      <stop offset="100%" stop-color="#1e1236" />
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="190" rx="14" fill="url(#bg)" />
+  <rect x="0" y="0" width="900" height="3" rx="1.5" fill="#7C3AED" />
+
+  <text x="450" y="80" text-anchor="middle" fill="#f2f2f7" font-size="44" font-weight="700" letter-spacing="-0.5">Deokhwan Kim</text>
+
+  <g text-anchor="middle" fill="#a6a6b8" font-size="20" font-weight="500">
+    <text x="450" y="122">
+      <animate attributeName="opacity" values="1;1;0;0;0;0;0;1" dur="15s" repeatCount="indefinite" />
+      AI Product Engineer, human-centered
+    </text>
+    <text x="450" y="122" opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0;0;0;0" dur="15s" repeatCount="indefinite" />
+      I design systems that ship without me
+    </text>
+    <text x="450" y="122" opacity="0">
+      <animate attributeName="opacity" values="0;0;0;0;1;1;0;0" dur="15s" repeatCount="indefinite" />
+      A seven-agent fleet, running 24/7 on a Mac mini
+    </text>
+  </g>
+
+  <g fill="#7C3AED">
+    <circle cx="426" cy="152" r="3.5">
+      <animate attributeName="opacity" values="1;0.22;0.22;1" dur="15s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="450" cy="152" r="3.5" opacity="0.22">
+      <animate attributeName="opacity" values="0.22;1;0.22;0.22" dur="15s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="474" cy="152" r="3.5" opacity="0.22">
+      <animate attributeName="opacity" values="0.22;0.22;1;0.22" dur="15s" repeatCount="indefinite" />
+    </circle>
+  </g>
+</svg>
