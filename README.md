@@ -14,7 +14,7 @@
 
 <img src="https://raw.githubusercontent.com/IISweetHeartII/IISweetHeartII/main/assets/pipeline.svg" width="820" alt="Research to review to build to human approval to publish" />
 
-**41** scheduled jobs&nbsp; ·&nbsp; **7** agents&nbsp; ·&nbsp; **307** cards shipped&nbsp; ·&nbsp; **172** posts published
+**41** scheduled jobs&nbsp; ·&nbsp; **7** agents&nbsp; ·&nbsp; **307** cards shipped&nbsp; ·&nbsp; **161** posts published
 
 </div>
 
@@ -52,7 +52,7 @@ Most of the code lands without a human touching the keyboard: a seeder files bui
 | Pipeline | How it works | Output so far |
 | --- | --- | --- |
 | **Autonomous coding** | Seeder files a build card → dispatcher spawns the builder → a reviewer agent gates the PR → release promotion | 770 PRs merged |
-| **Blog publishing** | Topic scan → research → draft → citation backfill → design pass → ship to log8.kr | 172 posts |
+| **Blog publishing** | Topic scan → research → draft → citation backfill → design pass → ship to log8.kr | 100 posts, unattended |
 | **SEO / GEO** | GA4 and Search Console feed back into topic selection, so briefs come from real queries instead of guesses | Strategy validated against live traffic |
 | **YouTube** | Research → editorial review → script and render → **I approve** → publish | Daily chain, 03:00 |
 | **Self-maintenance** | Health checks, secret audits, config backup, memory consolidation, skill curation | The fleet keeps itself alive |
